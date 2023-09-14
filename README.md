@@ -4,7 +4,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-@brunosantiagode-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/brunosantiagode/)](https://www.instagram.com/brunosantiagode/)
 [![Gmail Badge](https://img.shields.io/badge/-bruno.santi.oli@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:bruno.santi.oli@gmail.com)](mailto:bruno.santi.oli@gmail.com)
 
-![GitHub Snake dark](https://raw.githubusercontent.com/pedrosantayana/MrNaru300/output/github-contribution-grid-snake-dark.svg)
+![GitHub Snake dark](https://raw.githubusercontent.com/MrNaru300/MrNaru300/output/github-contribution-grid-snake-dark.svg)
 
 <div align="center">
   <a href="https://github.com/MrNaru300">
