@@ -1,7 +1,6 @@
 # Hi, I'm Bruno Santiago 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-bruno%20santiago-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-santiago-8a9973235/)](https://www.linkedin.com/in/bruno-santiago-8a9973235/)
-[![Instagram Badge](https://img.shields.io/badge/-@brunosantiagode-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/brunosantiagode/)](https://www.instagram.com/brunosantiagode/)
 [![Gmail Badge](https://img.shields.io/badge/-bruno.santi.oli@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:bruno.santi.oli@gmail.com)](mailto:bruno.santi.oli@gmail.com)
 
 
